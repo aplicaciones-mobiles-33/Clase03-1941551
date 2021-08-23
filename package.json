@@ -1,0 +1,26 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "Practica con grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03-1941551.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "grid"
+  ],
+  "author": "Emiliano Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03-1941551/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03-1941551#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
